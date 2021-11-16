@@ -11,6 +11,7 @@ This week I used express to host a virtual server on my computer. The applicatio
 This application marked the first truly server-side application that I have worked with so far. Very rarely will we write applications that use the client's resources (all previous apps) but that knowledge was needed to get to this point. All future projects will build on this concept
 
 
+
 <br>
 
 ### Problems I solved:
@@ -23,18 +24,23 @@ This application marked the first truly server-side application that I have work
 <br />
 
 ## Installation:
-Download all associated files in this repository. Install Node.js then use the `npm install` function. After that, CD to the directory the root application folder is installed in and use the `node index.js` function.
+You are welcome to download this repository locally to your workstation and host is there or use the deployed link on [HEROKU](https://mm-hw11-notetaker.herokuapp.com/) 
 
-### See screenshots for assistance with install and functionality:
-- [Run](https://github.com/MikeMallonIT/HW10-TeamProfileGenerator/blob/main/dist/testRun.png)
+To install:
+1. Clone the [HW11-NoteTaker](https://github.com/MikeMallonIT/HW11-NoteTaker) repository
+2. In termainal or command prompt, navigate to the folder where you have cloned the repository
+3. Ensure you are working in the same directory as the server.js file
+4. Type `npm install` into the cli (termainal or command prompt)
+5. Type `nmp start` into the cli
+6. The cli should then show `Listening on PORT: http://localhost:8080`
+7. Copy `http://localhost:8080` from cli and paste into your webbrowser
+8. The note taker will now work!
 
-https://mm-hw11-notetaker.herokuapp.com/
 
-<br>
+### Screenshots for assistance with install and functionality:
+- [CLI](https://raw.githubusercontent.com/MikeMallonIT/HW11-NoteTaker/main/Assets/cli.png)
+- [Browser](https://raw.githubusercontent.com/MikeMallonIT/HW11-NoteTaker/main/Assets/browser.png)
 
-### See project tutorials:
-- [Run](https://watch.screencastify.com/v/wyBs9UQS5ZxLy0ns9egQ)
-- [Tests](https://watch.screencastify.com/v/UFPLMIMd5MluOq41d6tQ)
 
 <br />
 
@@ -45,20 +51,6 @@ https://mm-hw11-notetaker.herokuapp.com/
 - [W3 Schools](https://www.w3schools.com/)
 - [W3.org](https://www.w3.org/)
 - [Stack Overflow](https://stackoverflow.com)
-- 
-
-[NPM](https://www.npmjs.com/package/inquirer)
+- [NPM](https://www.npmjs.com/package/inquirer)
 - [Node](https://nodejs.org/en/download/)
 - [ThreeJS](https://threejs.org/)
-
-
-https://www.mysqltutorial.org/mysql-update-data.aspx
-
-https://dyclassroom.com/mysql/mysql-select-from-table
-
-https://forum.freecodecamp.org/t/console-log-array-prints-a-result-but-return-array-is-undefined/192382
-
-
-https://dev.to/afifsohaili/dealing-with-promises-in-an-array-with-async-await-5d7g
-
-https://dev.mysql.com/doc/refman/8.0/en/datetime.html
