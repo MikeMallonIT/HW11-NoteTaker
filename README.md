@@ -28,6 +28,8 @@ Download all associated files in this repository. Install Node.js then use the `
 ### See screenshots for assistance with install and functionality:
 - [Run](https://github.com/MikeMallonIT/HW10-TeamProfileGenerator/blob/main/dist/testRun.png)
 
+https://mm-hw11-notetaker.herokuapp.com/
+
 <br>
 
 ### See project tutorials:
@@ -43,9 +45,20 @@ Download all associated files in this repository. Install Node.js then use the `
 - [W3 Schools](https://www.w3schools.com/)
 - [W3.org](https://www.w3.org/)
 - [Stack Overflow](https://stackoverflow.com)
-- [NPM](https://www.npmjs.com/package/inquirer)
+- 
+
+[NPM](https://www.npmjs.com/package/inquirer)
 - [Node](https://nodejs.org/en/download/)
 - [ThreeJS](https://threejs.org/)
-- [Jest](https://jestjs.io/)
-- [Emojipedia](https://emojipedia.org/)
-- [GetCSS](https://getcssscan.com/)
+
+
+https://www.mysqltutorial.org/mysql-update-data.aspx
+
+https://dyclassroom.com/mysql/mysql-select-from-table
+
+https://forum.freecodecamp.org/t/console-log-array-prints-a-result-but-return-array-is-undefined/192382
+
+
+https://dev.to/afifsohaili/dealing-with-promises-in-an-array-with-async-await-5d7g
+
+https://dev.mysql.com/doc/refman/8.0/en/datetime.html
